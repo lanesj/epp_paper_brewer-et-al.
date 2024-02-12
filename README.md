@@ -1,6 +1,5 @@
 # EPP-data-Brewer-at-al.
 
-#Summary of experimental efforts underlying this dataset
 
 The data presented here are parental care data in comparison to paternity status from adult and nestling wild song sparrows (Melospiza melodia). In socially monogamous species, individuals of both sexes often seek extra-pair copulation (EPCs), and there are likely behavioral correlates with parental investment within individuals that seek out EPCs, though this relationship has been examined predominantly in males. However, females likely benefit from EPCs, and have additional information about the likelihood of extra-pair young (EPY) in their own nest compared to their male partners and this information is expected to influence maternal investment. In this study, we examined how the presence and abundance of EPY in a nest effect the parental behavior of a socially monogamous songbird, song sparrows. We predicted that females who mated outside the social pairs would invest more in a clutch with a higher probability of EPY, and that males would decrease their investment. We monitored nest visitation rates by both male and female social partners for 10 days during the nestling period as a proxy for parental investment and quantified extra-pair paternity in 45 song sparrow nests. 
 
